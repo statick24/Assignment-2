@@ -1,0 +1,13 @@
+API token generated using first record of the user_management_system users table
+Uses username, password, email, role to generate token
+
+token for my version of the database
+a53571f4314d8cf493370f88451d9624dc703ecbdf1066b91d2cc9f97bde1510
+
+example of use
+
+localhost/asn2/Dashboard.php?user=a53571f4314d8cf493370f88451d9624dc703ecbdf1066b91d2cc9f97bde1510
+
+Admin login
+username: valid_email@example.com
+Password: Password123
